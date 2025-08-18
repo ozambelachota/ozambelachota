@@ -1,7 +1,29 @@
-# 💫 About Me:
-¡Hola! Soy Harold Ozambela Chota, un desarrollador frontend. Mi corazón late al ritmo del código, y mi amor por la tecnología me ha llevado a especializarme en TypeScript y React. Como desarrollador, estoy en busca de nuevas oportunidades para crecer y adquirir experiencia en el emocionante mundo del desarrollo web.<br><br>Desde que descubrí mi pasión por la programación, he estado inmerso en el mundo del desarrollo frontend. Me encanta crear interfaces atractivas y funcionales que mejoren la experiencia del usuario. Mi objetivo es combinar mis habilidades técnicas con mi creatividad para diseñar sitios web y aplicaciones web de alto impacto.<br><br>Si bien mi enfoque principal es el desarrollo frontend, también tengo un interés genuino por el backend. Entiendo la importancia de un sistema completo y estoy dispuesto a aprender y crecer en esa área también.<br><br>Lo que me distingue es mi pasión por aprender nuevas tecnologías. Siempre estoy buscando oportunidades para expandir mis conocimientos y mantenerme actualizado en un campo tan dinámico como el desarrollo web.<br><br>Si buscas a alguien apasionado por la programación, comprometido con el aprendizaje constante y con un enfoque en el desarrollo frontend, estoy emocionado por la posibilidad de trabajar contigo y contribuir a tu equipo.
+# Harold Ozambela Chota  
+**Desarrollador Full Stack**  
+
+Desarrollador Full Stack con experiencia en **React, Angular, Java, Spring Boot, C# y .NET**.  
+He participado en el diseño e implementación de **aplicaciones web, sistemas académicos y de salud**, contribuyendo a la **optimización de procesos** y a la **mejora de la eficiencia operativa**.  
+
+Me caracterizo por un enfoque en la **calidad, escalabilidad y resultados**, así como por mi capacidad de adaptación a diferentes entornos tecnológicos.  
+
+---
+
+## 🛠️ Competencias Técnicas  
+- **Frontend:** React, Angular, TypeScript, JavaScript, HTML5, CSS3.  
+- **Backend:** Java, Spring Boot, C#, .NET.  
+- **Bases de Datos:** MySQL, SQL Server.  
+- **Otros:** Git, integración de APIs REST.  
+
+---
+
+## 🌟 Fortalezas  
+- Desarrollo de **interfaces modernas y accesibles**.  
+- Implementación de **soluciones escalables y seguras**.  
+- Colaboración en **equipos multidisciplinarios**.  
+- **Aprendizaje constante** de nuevas tecnologías.  
 
 
+Aprendizaje constante de nuevas tecnologías.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ozambelachotaharold) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ozambelachotaharold) 
 

@@ -28,6 +28,25 @@
 
 ---
 
+## 🚀 Proyectos Destacados
+
+### 🏥 [MediCare — Clinical & Patient Management System](https://github.com/ozambelachota/medicare-patient-management)
+> **Solución médica Full Stack** de grado productivo con arquitectura monorepo desacoplada, cliente móvil nativo y API REST segura.
+
+- **Frontend Móvil:** Android nativo con **Kotlin**, **Jetpack Compose** y **Material 3**.
+- **Backend & Seguridad:** API REST con **Node.js/Express**, autenticación **JWT** y hashing **Bcrypt**.
+- **Calidad & Testing:** Suite con **54 pruebas automatizadas** (46 tests de integración en backend y 8 tests unitarios en Android).
+- **Stack:** ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### 🌐 [Portfolio & Web Architecture](https://github.com/ozambelachota/portfolio-ozambela-dev)
+> **Plataforma web de alto rendimiento** enfocada en optimización de Core Web Vitals, accesibilidad y diseño responsivo.
+
+- **Frontend & Rendimiento:** Construido con **Astro** y **TypeScript**, minimizando el payload de JavaScript en cliente.
+- **UI & Accesibilidad:** Diseño moderno con **Tailwind CSS** respetando estándares de contraste y navegación intuitiva.
+- **Stack:** ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 <details open>

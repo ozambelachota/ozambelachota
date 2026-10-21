@@ -9,6 +9,7 @@
   Experiencia en arquitectura e integración de aplicaciones web para sectores críticos como <b>salud y educación</b>.
 </p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://ozambela-dev.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozambelachota)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haroldozambela@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ozambelachota)
@@ -52,8 +53,8 @@
 - **Calidad & Testing:** Suite con **54 pruebas automatizadas** (46 tests de integración en backend y 8 tests unitarios en Android).
 - **Stack:** ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### 🌐 [Portfolio & Web Architecture](https://github.com/ozambelachota/portfolio-ozambela-dev)
-> **Plataforma web de alto rendimiento** enfocada en optimización de Core Web Vitals, accesibilidad y diseño responsivo.
+### 🌐 [Portfolio & Web Architecture](https://github.com/ozambelachota/portfolio-ozambela-dev) &nbsp;•&nbsp; [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square)](https://ozambela-dev.netlify.app)
+> **Plataforma web de alto rendimiento** enfocada en optimización de Core Web Vitals, accesibilidad y diseño responsivo. Disponible en [ozambela-dev.netlify.app](https://ozambela-dev.netlify.app).
 
 - **Frontend & Rendimiento:** Construido con **Astro** y **TypeScript**, minimizando el payload de JavaScript en cliente.
 - **UI & Accesibilidad:** Diseño moderno con **Tailwind CSS** respetando estándares de contraste y navegación intuitiva.

@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://ozambela-dev.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozambelachota)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haroldozambela@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:ozambela.chota.harold@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ozambelachota)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ozambelachotaharold)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ozambelachotaharold)

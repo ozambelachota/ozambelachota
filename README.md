@@ -28,6 +28,20 @@
 
 ---
 
+## 💼 Experiencia & Proyectos Corporativos
+
+#### 🏢 **Jazani** — *Proyectos para Senace*
+> **Desarrollador Full Stack**
+- Desarrollo e integración de plataformas para la digitalización y optimización de procesos técnicos vinculados a **Senace** (Servicio Nacional de Certificación Ambiental para las Inversiones Sostenibles).
+- Enfoque en trazabilidad, integridad de datos regulatorios y construcción de interfaces y servicios eficientes.
+
+#### 🏢 **Zzoft** — *Proyectos CITE*
+> **Desarrollador Backend / Full Stack**
+- Implementación de servicios empresariales bajo **Clean Architecture & CQRS en .NET** y **Arquitectura Hexagonal en Java / Spring Boot**.
+- Modularización de componentes, integración de APIs REST seguras y automatización de flujos de desarrollo.
+
+---
+
 ## 🚀 Proyectos Destacados
 
 ### 🏥 [MediCare — Clinical & Patient Management System](https://github.com/ozambelachota/medicare-patient-management)
